@@ -1,2 +1,3 @@
 # Helloword
-My first repository 
+This is my first repository.
+I am a web development student.
